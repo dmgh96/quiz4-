@@ -26,6 +26,7 @@ int main() {
     int command = 0;
 
     do {
+        printf("\n");
         printf("==========================\n");
         printf("도서관리 프로그램\n");
         printf("==========================\n");
